@@ -73,4 +73,4 @@ npm start
 | GET | `/swagger-ui.html` | Access Swagger API documentation |
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://kumareffect.com/LICENSE) file for details.
